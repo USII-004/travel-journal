@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaEarthAmericas, FaLocationDot} from "react-icons/fa6";
+import {FaLocationDot} from "react-icons/fa6";
 
 
 const Places = (props) => {
